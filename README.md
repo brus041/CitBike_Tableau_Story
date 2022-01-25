@@ -10,3 +10,5 @@ The most popular locations were then found and placed on a map that included a b
 
 In the tableau folder within the repo, there is a .txt file that goes into depth regarding the outcomes of the analysis above.
 
+The final story can be found here:
+https://public.tableau.com/app/profile/boris.rubel/viz/CitibikeStoryFinal/Story1?publish=yes
